@@ -6,6 +6,7 @@ package com.aravind.logic.main;
 import com.aravind.logic.workset.FirstNonRepeatableCharacter;
 
 /**
+ * The class that helps to call the logical functions
  * @author Aravind
  *
  */
